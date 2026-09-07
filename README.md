@@ -183,6 +183,7 @@ Space
 | ---------- | ------------------------------------- |
 | `Space ff` | Find files                            |
 | `Space fg` | Search text in project                |
+| `Space gs` | Git status via Telescope              |
 | `Space e`  | Toggle Neo-tree / reveal current file |
 
 ## Window Navigation
