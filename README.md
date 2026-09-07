@@ -201,6 +201,17 @@ Ctrl+h    Editor → Neo-tree
 Ctrl+l    Neo-tree → Editor
 ```
 
+## Window Resizing
+
+| Key      | Action                  |
+| -------- | ----------------------- |
+| `Alt+←`  | Decrease window width   |
+| `Alt+→`  | Increase window width   |
+| `Alt+↑`  | Increase window height  |
+| `Alt+↓`  | Decrease window height  |
+
+Navigation and resizing keys also work from terminal mode (e.g. inside the Claude Code terminal).
+
 ## LSP
 
 | Key        | Action                        |
