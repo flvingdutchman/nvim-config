@@ -259,6 +259,16 @@ Files are also automatically formatted on save.
 
 **Note:** `Space gr` modifies the working tree by reverting the current hunk.
 
+## Claude Code
+
+| Key        | Action                        |
+| ---------- | ----------------------------- |
+| `Space ac` | Toggle Claude                 |
+| `Space as` | Send selection to Claude (visual mode) / Add file to Claude (Neo-tree) |
+| `Space ar` | Resume Claude session         |
+| `Space aC` | Continue last Claude session  |
+| `Space aa` | Show ClaudeCode Agents        |
+
 ## Completion
 
 | Key         | Action                     |

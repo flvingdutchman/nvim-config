@@ -28,6 +28,24 @@ return {
         ft = { "neo-tree" },
         desc = "Add file to Claude",
       },
+
+      {
+        "<leader>ar",
+        "<cmd>ClaudeCode --resume<cr>",
+        desc = "Resume Claude session",
+      },
+
+      {
+        "<leader>aC",
+        "<cmd>ClaudeCode --continue<cr>",
+        desc = "Continue last Claude session",
+      },
+
+      {
+        "<leader>aa",
+        "<cmd>ClaudeCode agents<cr>",
+        desc = "Show ClaudeCode Agents"
+      }
     },
   },
 }
