@@ -15,6 +15,8 @@ return {
         "json",
         "html",
         "css",
+        "markdown",
+        "markdown_inline",
       })
 
       vim.api.nvim_create_autocmd("FileType", {
